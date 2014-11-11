@@ -1,0 +1,24 @@
+{
+  "name": "spacelab-specials.print",
+  "version": "0.1.0",
+  "authors": [
+    "Axel Salder",
+    "Daniel Blomeyer"
+  ],
+  "description": "here be a description",
+  "main": "_specials.print.scss",
+  "keywords": [
+    "spacelab",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/spacelab/specials.print",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
